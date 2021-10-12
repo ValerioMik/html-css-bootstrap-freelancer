@@ -6,32 +6,32 @@ background-color: rgb(0, 38, 255);
 border:solid 1px white;
 }
  */
-
+/* 
 .bianco{
     min-height:150px;
     background-color: rgb(255, 255, 255);
     border:solid 1px rgb(0, 0, 0);
-}
+} */
 
-.immagini{
+/* .immagini{
     min-height:150px;
     background-color: rgb(20, 243, 0);
     border:solid 1px rgb(0, 0, 0);
     margin: 20px 0;
-}
+} */
 
-.testoverde{
+/* .testoverde{
     min-height:150px;
     background-color: rgb(145, 240, 136);
     border:solid 1px rgb(0, 0, 0);
   
-}
+} */
 
-.about{
+/* .about{
     min-height:50px;
     background-color: rgb(0, 38, 255);
     border:solid 1px white;
-}
+} */
 
 .black{
     min-height:100px;
@@ -65,29 +65,70 @@ p{
 }
 .verde{
     background-color: rgb(0, 255, 170);
+    padding: 20px;
 }
 
+
 .trattino{
-    width: 70px;
+    width: 145px;
     height: 3px;
     background-color: white;
     margin: 0px 7px;
-    
-   
+}
+.nero{
+    background-color: rgb(0, 0, 0);
+}
+.fa-star.stellenera{
+color: black;
+}
+/* sezione immagini */
+
+.titolop{
+    color: black;
+    font-size: 40px;
 }
 
 .star{
    display: flex;
    align-items: center;
    justify-content: center;
+   padding-bottom: 15px;
 }
 
 .fa-star{
-    color: white;
+    color: white; 
+}
+
+.fa-star .nero{
+    color: black;
 }
 
 .sottotitolo{
     font-size: 25px;
-   
+
 }
 
+.foto{
+    width: 270px;
+    border-radius: 8px;
+    margin: 13px auto;
+    
+}
+
+/* sezione about */
+
+.lorem{
+    font-size: 20px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0fa;
+    border-color: #fff;
+}
+
+.form-control{
+    border: 1px solid #fff;
+    border-bottom: 1px solid black;
+
+}
