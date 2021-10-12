@@ -1,15 +1,11 @@
 /* regole debug */
-.blue{
+
+/* .blue{
 min-height:50px;
 background-color: rgb(0, 38, 255);
 border:solid 1px white;
 }
-
-.verde{
-     min-height:150px;
-    background-color: rgb(0, 255, 170);
-    border:solid 1px white;
-}
+ */
 
 .bianco{
     min-height:150px;
@@ -54,3 +50,44 @@ border:solid 1px white;
     background-color: rgb(91, 94, 112);
     border:solid 1px rgb(0, 0, 0);
 }
+
+/* jumbotron e profilo */
+
+.profilo{
+    width: 250px;
+    margin-top: 30px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.verde{
+    background-color: rgb(0, 255, 170);
+}
+
+.trattino{
+    width: 70px;
+    height: 3px;
+    background-color: white;
+    margin: 0px 7px;
+    
+   
+}
+
+.star{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.fa-star{
+    color: white;
+}
+
+.sottotitolo{
+    font-size: 25px;
+   
+}
+
