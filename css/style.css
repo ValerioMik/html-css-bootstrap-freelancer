@@ -186,3 +186,7 @@ span{
 .location{
     text-align: center;
 }
+
+#navbarNavDropdown{
+    justify-content: flex-end;
+}
