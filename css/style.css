@@ -139,7 +139,7 @@ color: black;
 
 .location{
     background-color: rgb(53, 84, 122);
-    height: 150px;
+    height: 170px;
 }
 h6{
     font-size: 30px;
@@ -151,7 +151,7 @@ span{
     font-size: 20px;
     color: white;
     text-align: center;
-    margin-left: 80px;
+ 
 }
 
 .cerchio{
@@ -171,4 +171,18 @@ span{
 
 .green{
     color: green;
+}
+
+.btn{
+    margin-bottom: 20px;
+}
+
+.copirayt{
+    text-align: center;
+   
+
+}
+
+.location{
+    text-align: center;
 }
